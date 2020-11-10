@@ -1,0 +1,18 @@
+.back {
+    background: url('https://images.unsplash.com/photo-1578048421563-9aa187e12baf?ixlib=rb-1.2.1&auto=format&fit=crop&w=845&q=80sssss') no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.acc{
+    font-family: 'Playfair Display', serif;
+    
+    font-size: 30px;
+}

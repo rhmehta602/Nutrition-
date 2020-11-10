@@ -1,0 +1,34 @@
+body {
+    background-color: #171c21;
+  }
+
+.container {
+    margin-top: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+label{
+    font-size: x-large;
+    color: white;
+}
+.btn{
+    position: absolute;
+    left: 46%;
+    padding: 5px 20px;
+    font-size: xx-large;
+}
+
+a{
+    font-size: 19px;    
+}
+.nav-item{
+    padding: 5px 30px;
+}
+.navbar-brand{
+    font-size: xx-large;
+    padding: 5px 30px;
+}
+/* .na
